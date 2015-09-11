@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 可以从下向上拉动的抽屉 -->
+    <declare-styleable name="DragLayout">
+
+        <!-- 可以拉动的把手 -->
+        <attr name="handle" format="reference" />
+        <!-- 抽屉的内容 -->
+        <attr name="content" format="reference" />
+        <!-- 抽屉打开后，把手Top距抽屉Top的高度 -->
+        <attr name="handle_Top" format="dimension" />
+        <!-- 抽屉关闭后，把手Bottom距抽屉Bottom的高度 -->
+        <attr name="handle_Bottom" format="dimension" />
+    </declare-styleable>
+
+</resources>
