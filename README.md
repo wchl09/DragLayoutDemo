@@ -1,0 +1,3 @@
+# DragLayoutDemo
+通过ViewDragHelper制作的上拉抽屉布局Draglayout示例
+仿大众点评的地图路线指示，并且没有按住头部不放，有多次触发的BUG
